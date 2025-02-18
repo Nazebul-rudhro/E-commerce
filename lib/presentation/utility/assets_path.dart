@@ -1,6 +1,7 @@
 class AssetsPath {
   static const _imagePath = "images";
   static const appLogoSvg = "$_imagePath/logo.svg";
+  static const login_logo = "$_imagePath/login_logo.svg";
   static const person = "$_imagePath/person.svg";
   static const contact = "$_imagePath/contact.svg";
   static const notification = "$_imagePath/notification.svg";
